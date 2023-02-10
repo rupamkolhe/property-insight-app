@@ -6,3 +6,4 @@ scikit_learn==1.2.1
 seaborn==0.11.2
 streamlit==1.17.0
 streamlit_option_menu==0.3.2
+statsmodels==0.13.2
